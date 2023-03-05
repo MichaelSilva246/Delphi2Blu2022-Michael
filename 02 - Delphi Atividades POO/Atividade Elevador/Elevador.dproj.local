@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/26 19:24:20.000.960,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 18:21:56.000.525,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 20:59:19.000.312,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 20:59:25.000.730,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/19 20:59:51.000.198,C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade Elevador\uFrmPrincipal.dfm=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/19 20:59:51.000.198,C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade Elevador\uFrmPrincipal.pas=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 20:59:56.000.020,C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade Elevador\uElevador.pas=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/19 21:00:26.000.252,C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade Elevador\Elevador.dproj=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

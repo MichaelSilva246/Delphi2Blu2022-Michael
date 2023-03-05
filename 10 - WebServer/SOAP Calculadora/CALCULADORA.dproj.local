@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/16 18:40:47.000.837,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 20:52:00.000.294,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/01 20:13:40.000.913,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2023/02/01 20:13:41.000.208,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2023/02/01 20:13:47.000.907,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\CalculadoraImpl.pas</Transaction>
+    <Transaction>2023/02/01 20:13:47.000.990,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\CalculadoraIntf.pas</Transaction>
+    <Transaction>2023/02/01 20:14:06.000.294,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\CalculadoraIntf.pas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\SOAP Calculadora\CalculadoraIntf.pas</Transaction>
+    <Transaction>2023/02/01 20:14:09.000.651,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\CalculadoraImpl.pas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\SOAP Calculadora\CalculadoraImpl.pas</Transaction>
+    <Transaction>2023/02/01 20:14:16.000.455,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\FormUnit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\SOAP Calculadora\UfrmCalculadora.pas</Transaction>
+    <Transaction>2023/02/01 20:14:16.000.455,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\FormUnit1.dfm=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\SOAP Calculadora\UfrmCalculadora.dfm</Transaction>
+    <Transaction>2023/02/01 20:14:21.000.506,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\SOAP Calculadora\CalculadoraSOAP.dfm</Transaction>
+    <Transaction>2023/02/01 20:14:21.000.506,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\SOAP Calculadora\CalculadoraSOAP.pas</Transaction>
+    <Transaction>2023/02/01 21:01:07.000.723,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\SOAP Calculadora\CALCULADORA.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

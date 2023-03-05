@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/26 19:24:20.000.960,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 18:21:56.000.525,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 19:35:36.000.130,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 19:35:44.000.272,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/19 19:36:54.000.400,C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade UML (TimeJogador)\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2022/10/19 19:36:54.000.400,C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade UML (TimeJogador)\uFrmPrincipal.pas</Transaction>
+    <Transaction>2022/10/19 19:37:13.000.865,C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade UML (TimeJogador)\uTime.pas</Transaction>
+    <Transaction>2022/10/19 19:37:18.000.387,C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade UML (TimeJogador)\TimeJogador.dproj</Transaction>
+    <Transaction>2022/10/19 19:47:05.000.658,=C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade UML (TimeJogador)\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 19:47:15.000.946,C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade UML (TimeJogador)\Unit1.pas=C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade UML (TimeJogador)\uJogador.pas</Transaction>
+  </Transactions>
+</BorlandProject>

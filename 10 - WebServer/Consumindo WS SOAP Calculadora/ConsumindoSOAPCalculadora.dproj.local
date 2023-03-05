@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/16 18:40:47.000.837,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 20:52:00.000.294,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/03 19:42:04.187,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/03 19:42:16.265,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\ICalculadora1.pas</Transaction>
+    <Transaction>2023/02/03 19:42:31.201,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\Consumindo WS SOAP Calculadora\uFrmPrincipal.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/03 19:42:31.201,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\Consumindo WS SOAP Calculadora\uFrmPrincipal.dfm=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/02/03 19:42:35.503,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\Consumindo WS SOAP Calculadora\ICalculadora1.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\ICalculadora1.pas</Transaction>
+    <Transaction>2023/02/03 19:42:45.114,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\Consumindo WS SOAP Calculadora\ConsumindoSOAPCalculadora.dproj=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/02/03 20:21:27.270,=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\Consumindo WS SOAP Calculadora\NumberConversion.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/16 18:40:47.000.837,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 20:52:00.000.294,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/25 20:47:03.000.392,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/25 20:47:23.000.429,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\UfrmPrincipal.dfm</Transaction>
+    <Transaction>2023/01/25 20:47:23.000.429,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\UfrmPrincipal.pas</Transaction>
+    <Transaction>2023/01/25 20:57:29.000.482,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\Adapter.dproj</Transaction>
+    <Transaction>2023/01/25 20:59:17.000.149,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\pattern\UWebServiceCorreios.pas</Transaction>
+    <Transaction>2023/01/25 20:59:26.000.270,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\Unit1.pas</Transaction>
+    <Transaction>2023/01/25 20:59:38.000.861,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\pattern\UInterfaceViaCep.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\Unit1.pas</Transaction>
+    <Transaction>2023/01/25 21:04:23.000.245,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\Unit1.pas</Transaction>
+    <Transaction>2023/01/25 21:04:32.000.141,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\pattern\UTarget.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\Unit1.pas</Transaction>
+    <Transaction>2023/01/25 21:18:17.000.267,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\Unit1.pas</Transaction>
+    <Transaction>2023/01/25 21:18:29.000.130,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\pattern\UWebServiceViaCEP.pas</Transaction>
+    <Transaction>2023/01/25 21:45:32.000.703,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\Unit1.pas</Transaction>
+    <Transaction>2023/01/25 21:45:51.000.008,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\pattern\UAdaptee.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\Unit1.pas</Transaction>
+    <Transaction>2023/01/27 18:38:43.000.120,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\Unit1.pas</Transaction>
+    <Transaction>2023/01/27 18:38:51.000.019,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\03 - Padrões Estruturais - Adapter\pattern\UAdapter.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,137 @@
+criar banco de dados
+CREATE DATABASE nomedobanco;
+
+selecionar bando de dados 
+USE nomedobanco;
+
+criar tabela vazia
+CREATE TABLE nomedatabela;
+
+criar tabela com campos
+CREATE TABLE nometabela (
+    campo1 tinyint(2) unsigned not null auto_increment,
+    campo2 smallint(5) unsigned default null,
+    campo3 char(10) default null,
+    campo4 text,
+    campo5 bit(1) not null default 1, -- o campo1 será not null e terá o valor 1 como padrao
+    campo6 float(4,2) not null,
+    primary key(campo1), -- nesta linha estou dizendo para que o campo1 seja do tipo primarykey
+    unique key campo7(campo2) -- nesta linha estou dizendo para que o campo2 seja do tipo unique
+);
+
+excluir campo da tabela
+ALTER teste DROP campo1;
+
+inserir uma PK em um campo que foi criado sem
+ALTER TABLE teste ADD PRIMARY KEY (campo2);
+
+comando para excluir a PK da tabela
+ALTER TABLE teste DROP PRIMARY KEY;
+
+inserindo um campo novo na tabela e colocando como pk(se ja existir alguma pk não irá funcionar)
+ALTER TABLE teste ADD campo1 tinyint(2) unsigned not null,
+		  ADD primary key(campo1);
+
+exibir tabelas de um banco de dados
+SHOW TABLES
+
+exibe os campos de uma tabela
+DESC nometabela;
+
+excluir um banco de dados
+DROP DATABASE nomedobanco;
+
+excluir uma tabela
+DROP TABLE nometabela;
+
+limpar uma tabela (os registros e dados)
+TRUNCATE TABLE nometabela;
+
+---------------
+
+DML
+
+Exibir dados de uma tabela
+SELECT * FROM tabela where coluna = 'campo';
+SELECT * FROM cliente where uf = 'SC';
+
+Exibir apenas alguns dados de uma tabela (sem o *)
+SELECT nome, marca, veiculo FROM cliente WHERE uf = 'SC';
+
+com condição e operador
+SELECT nome, marca, veiculo FROM cliente WHERE uf != '18';
+
+pesquisar algo que comece com 'a' por exemplo, ou terminar com 'I'; 
+SELECT * FROM cliente where telefone LIKE 'A%';
+SELECT * FROM cliente where telefone LIKE '%I';
+SELECT * FROM address where phone LIKE '7058%';
+
+pesquisar algo que os segundos numeros seria 6(Usar o _ para cada caracter)
+SELECT * FROM address where phone LIKE '_6%';
+
+não mostrar valores repetidos
+SELECT DISTINCT(marca)FROM cliente;
+
+saber quantos registros existem na consulta
+SELECT COUNT(*) FROM cliente; //resultado seria 31 e não é boa pratica usar *
+aqui damos um apelido com o 'AS'
+SELECT COUNT(*) AS CONTADOR FROM ADDRESS
+SELECT COUNT(1) AS CONTADOR FROM ADDRESS // TROCAR O * POR 1 E BOA PRATICA
+
+consultar valores entre intervalados
+SELECT * FROM cliente WHERE ano BETWEEN 2000 AND 2008;
+
+ordenar nossos dados
+SELECT * FROM cliente ORDER BY nome;
+decrescente
+SELECT * FROM cliente ORDER BY nome DESC;
+
+limitar resultados (tem 100 mas quero ver so 10)
+SELECT * FROM address WHERE 0,5;
+select * from address where district = 'buenos aires' order by address_id limit 0,5;
+
+encontrar o maior, menor e media e somar em um valor no campo da tabela
+SELECT max(ano) FROM cliente;
+SELECT min(ano) FROM cliente;
+SELECT avg(ano) FROM cliente;
+SELECT sum(ano) FROM cliente;
+
+alterar um registro individual
+UPDATE cliente SET nome = 'Anderson Novo' Where id = '1';
+alterar todos os registro da tabela(cuidado);
+UPDATE cliente SET nome = 'Anderson Novo';
+
+para excluir um dados q n tenha chave estrangeira.
+DELETE FROM actor where actor_id = 200;
+
+formar de inserir
+INSERT INTO actor(first_name, last_name, last_update) VALUES('brad','pit','00:00',);
+INSERT INTO actor VALURES('1', 'brad','pit','00:00',);
+INSERT INTO actor(first_name, last_name, last_update) select 'armando', last_name, last_update FROM actor WHERE actor_id = 300;
+
+
+FOREIGN exemplo
+CREATE TABLE pessoas (
+    PersonID int unsigned auto_increment not null,
+    LastName char(20) not null,
+    FirstName char(20) not null,
+    Age tinyint unsigned,
+    primary key (PersonID)
+);
+
+CREATE TABLE pedidos (
+    OrderID int unsigned auto_increment not null,
+    OrderNumber int unsigned not null,
+    PersonID int unsigned not null,
+    primary key(OrderID),
+    foreign key(PersonID) references pessoas(PersonID)
+);
+
+agrupar as linhas que tem oe mesmo valores em linhas
+select sum(amount), customer_id from payment group by customer_id;
+
+exemplo mais complexo 
+SELECT COUNT(1), ACTIVE FROM customer INNER JOIN address ON address.address_ID = customer.address_id WHERE address.district = 'CALIFORNIA' GROUP BY ACTIVE;
+
+
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/26 19:24:20.000.960,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 18:21:56.000.525,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/03 21:03:25.000.099,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/03 21:03:53.000.563,C:\Users\nagoncalves\Desktop\Lista\Exercicio 35\uFrmContaLuz.dfm=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/03 21:03:53.000.563,C:\Users\nagoncalves\Desktop\Lista\Exercicio 35\uFrmContaLuz.pas=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/03 21:52:47.000.370,C:\Users\nagoncalves\Desktop\Lista\Exercicio 35\CalcularLuz.dproj=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

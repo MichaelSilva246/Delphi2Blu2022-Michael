@@ -1,0 +1,44 @@
+create table EDITORAS (
+	id int unsigned not null auto_increment,
+    editora varchar(250) not null,
+    primary key(id)
+);
+
+create table LIVROS (
+	id int unsigned not null auto_increment,
+    nome varchar(250) not null,
+    id_editora int unsigned,
+    primary key(id),
+    foreign key(id_editora) references editoras(id)
+);
+
+select*from livros;
+
+insert into editoras(editora) values('JefersonEditor'); 
+insert into editoras(editora) values('AndersonEditor'); 
+insert into editoras(editora) values('AlineEditora'); 
+insert into editoras(editora) values('GuilhermeEditor'); 
+insert into editoras(editora) values('JeanEditor'); 
+insert into editoras(editora) values('JamesEditor'); 
+
+delete from livros where id = 4;
+
+insert into livros(nome) value('Harry Potter');
+insert into livros(nome, id_editora) value('James Bexter', '8');
+insert into livros(nome, id_editora) value('Turma da monica', '1');
+insert into livros(nome, id_editora) value('Aline pais das maravilhas', '5');
+insert into livros(nome, id_editora) value('Guilherme otaku', '6');
+insert into livros(nome) value('O Chamado do monstro');
+
+
+SELECT livros.nome, editoras.editora FROM livros
+LEFT JOIN editoras ON livros.id_editora = editoras.id 
+ORDER BY livros.nome;
+
+SELECT livros.nome, editoras.editora FROM livros
+RIGHT JOIN editoras ON livros.id_editora = editoras.id 
+ORDER BY livros.nome;
+
+SELECT livros.nome, editoras.editora FROM livros
+INNER JOIN editoras ON livros.id_editora = editoras.id 
+ORDER BY livros.nome;

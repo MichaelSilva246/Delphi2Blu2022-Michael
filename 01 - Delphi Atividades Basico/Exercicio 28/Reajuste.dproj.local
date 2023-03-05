@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/26 19:24:20.000.960,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 18:21:56.000.525,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 20:31:15.320,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 20:32:25.398,C:\Users\nagoncalves\Desktop\Lista\Exercicio 28\uFrmPrincipal.pas=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 20:32:25.398,C:\Users\nagoncalves\Desktop\Lista\Exercicio 28\uFrmPrincipal.dfm=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/09/30 20:32:43.962,C:\Users\nagoncalves\Desktop\Lista\Exercicio 28\Reajuste.dproj=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/09/30 20:43:36.972,=C:\Users\nagoncalves\Desktop\Lista\Exercicio 28\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 20:44:04.294,C:\Users\nagoncalves\Desktop\Lista\Exercicio 28\uFrmFuncionario.pas=C:\Users\nagoncalves\Desktop\Lista\Exercicio 28\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 20:44:04.294,C:\Users\nagoncalves\Desktop\Lista\Exercicio 28\uFrmFuncionario.dfm=C:\Users\nagoncalves\Desktop\Lista\Exercicio 28\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/16 18:40:47.000.837,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 20:52:00.000.294,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/23 19:45:14.000.619,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/23 19:46:06.000.884,C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\03 - Calculadora com interface\model\entidades\ufrmPrincipal.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/23 19:46:06.000.884,C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\03 - Calculadora com interface\model\entidades\ufrmPrincipal.dfm=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/01/23 19:46:26.000.575,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/23 19:49:18.000.762,C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\03 - Calculadora com interface\model\servicos\uCalcularServico.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/23 19:52:53.000.264,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/23 19:53:29.000.824,C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\03 - Calculadora com interface\model\servicos\uCalcularServicoDefault.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/23 19:55:28.000.944,C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\03 - Calculadora com interface\model\servicos\CalculadoraInterface.dproj=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/01/23 19:56:17.000.113,=C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\03 - Calculadora com interface\model\servicos\Unit1.pas</Transaction>
+    <Transaction>2023/01/23 19:56:50.000.735,C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\03 - Calculadora com interface\model\servicos\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\03 - Calculadora com interface\model\entidades\uCalculadora.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/16 18:40:47.000.837,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 20:52:00.000.294,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 19:15:27.000.889,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 19:15:43.000.766,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory\UfrmPrincipal.dfm=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/01/24 19:15:43.000.766,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory\UfrmPrincipal.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 19:33:43.000.992,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory\Principal.dproj=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/01/24 19:35:28.000.989,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 19:35:46.000.955,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\pattern\factorys\UInterfaces.pas</Transaction>
+    <Transaction>2023/01/24 19:39:14.000.950,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 19:39:28.000.137,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\pattern\factorys\UDell.pas</Transaction>
+    <Transaction>2023/01/24 19:39:33.000.494,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 19:39:42.000.659,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\pattern\factorys\UApple.pas</Transaction>
+    <Transaction>2023/01/24 19:39:48.000.119,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 19:40:30.000.893,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit2.pas</Transaction>
+    <Transaction>2023/01/24 19:40:40.000.160,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\pattern\entities\UIMac.pas</Transaction>
+    <Transaction>2023/01/24 19:40:53.000.665,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit2.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\pattern\entities\UInspiron.pas</Transaction>
+    <Transaction>2023/01/24 19:40:59.000.381,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 19:41:09.000.530,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\pattern\entities\UMacBook.pas</Transaction>
+    <Transaction>2023/01/24 19:41:13.000.078,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 19:41:22.000.298,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\UVostro.pas</Transaction>
+    <Transaction>2023/01/24 19:41:57.000.163,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\UVostro.pas=</Transaction>
+    <Transaction>2023/01/24 19:42:01.000.998,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 19:42:11.000.520,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\01 - AbstractFactory - Com padrão de projeto\pattern\entities\UVostro.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="pattern"/>
+    <File Path="pattern\entities"/>
+    <File Path="pattern\entities\UIMac.pas"/>
+    <File Path="pattern\entities\UInspiron.pas"/>
+    <File Path="pattern\entities\UMacBook.pas"/>
+    <File Path="pattern\entities\UVostro.pas"/>
+    <File Path="pattern\factorys"/>
+    <File Path="pattern\factorys\UApple.pas"/>
+    <File Path="pattern\factorys\UDell.pas"/>
+    <File Path="pattern\factorys\UInterfaces.pas"/>
+    <File Path="UfrmPrincipal.pas"/>
+    <File Path="UfrmPrincipal.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

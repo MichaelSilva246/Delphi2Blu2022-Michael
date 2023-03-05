@@ -1,0 +1,16 @@
+﻿[edtSoma]
+Coordinates=10,78,66,58
+
+[btnSomar]
+Coordinates=98,10,70,58
+
+[edtPrimeiroNumero]
+Coordinates=10,146,126,58
+Visible=True
+
+[edtSegundoNumero]
+Coordinates=149,78,129,58
+
+[]
+Coordinates=251,10,53,58
+

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/16 18:40:47.000.837,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 20:52:00.000.294,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/07 18:32:01.000.767,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/13 19:39:44.000.145,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\CRUD.dproj</Transaction>
+    <Transaction>2023/02/13 19:46:18.000.488,=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Unit1.pas</Transaction>
+    <Transaction>2023/02/13 19:46:34.000.528,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Model\Utils\UUtil.Banco.pas</Transaction>
+    <Transaction>2023/02/13 20:51:53.000.066,=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Unit1.pas</Transaction>
+    <Transaction>2023/02/13 20:52:09.000.338,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Model\DAO\UDAO.pas</Transaction>
+    <Transaction>2023/02/13 20:56:33.000.419,=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Unit1.pas</Transaction>
+    <Transaction>2023/02/13 20:56:43.000.131,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Model\DAO\UDAO.Produtos.pas</Transaction>
+    <Transaction>2023/02/13 20:57:22.000.759,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Model\DAO\UDAO.pas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Model\DAO\UDAO.pas</Transaction>
+    <Transaction>2023/02/13 20:57:29.000.294,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Model\DAO\UDAO.Intfpas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Model\DAO\UDAO.Intf.Intfpas</Transaction>
+    <Transaction>2023/02/13 21:18:55.000.315,=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Unit1.pas</Transaction>
+    <Transaction>2023/02/13 21:19:07.000.933,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API\Model\Controllers\UController.Produtos.pas</Transaction>
+    <Transaction>2023/02/14 19:11:48.000.664,=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API Atividade\Unit1.pas</Transaction>
+    <Transaction>2023/02/14 19:12:09.000.337,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API Atividade\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API Atividade\Model\Controllers\UController.UnidadeMedida.pas</Transaction>
+    <Transaction>2023/02/14 19:16:28.000.747,=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API Atividade\Unit1.pas</Transaction>
+    <Transaction>2023/02/14 19:16:40.000.058,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API Atividade\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\CRUD API Atividade\Model\DAO\UDAO.UnidadeMedidas.pas</Transaction>
+  </Transactions>
+</BorlandProject>

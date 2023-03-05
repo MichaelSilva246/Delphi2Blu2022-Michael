@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/16 18:40:47.000.837,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/16 20:06:50.000.186,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/16 20:07:38.000.123,C:\Users\mysql\Documents\Delphi2Blu2022\05 - Delphi Avançado\Teste unitário 2\ufrmPrincipal.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/16 20:07:38.000.123,C:\Users\mysql\Documents\Delphi2Blu2022\05 - Delphi Avançado\Teste unitário 2\ufrmPrincipal.dfm=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/01/16 20:07:44.000.229,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/16 20:08:02.000.389,C:\Users\mysql\Documents\Delphi2Blu2022\05 - Delphi Avançado\Teste unitário 2\uProduto.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/16 20:33:16.000.502,C:\Users\mysql\Documents\Delphi2Blu2022\05 - Delphi Avançado\Teste unitário 2\Produtos.dproj=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

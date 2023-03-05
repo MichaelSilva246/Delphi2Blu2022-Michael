@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/26 18:37:14.000.741,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/26 18:37:39.000.928,C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\uFrmMediaAluno.pas=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/26 18:37:39.000.928,C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\uFrmMediaAluno.dfm=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/09/26 19:08:02.000.667,C:\Users\nagoncalves\Desktop\Lista\Exercicio 16\MediaAluno.dproj=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/09/26 19:10:16.000.677,=C:\Users\nagoncalves\Desktop\Lista\Exercicio 16\Unit1.pas</Transaction>
+    <Transaction>2022/09/26 19:10:24.000.247,C:\Users\nagoncalves\Desktop\Lista\Exercicio 16\Unit1.pas=C:\Users\nagoncalves\Desktop\Lista\Exercicio 16\uFuncoes.pas</Transaction>
+    <Transaction>2022/09/26 19:20:56.000.786,C:\Users\nagoncalves\Desktop\Lista\Exercicio 16\uFuncoes.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

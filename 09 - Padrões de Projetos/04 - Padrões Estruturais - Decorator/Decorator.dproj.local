@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/16 18:40:47.000.837,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 20:52:00.000.294,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/27 19:47:21.000.930,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/27 19:47:38.000.886,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2023/01/27 19:47:38.000.886,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\uFrmPrincipal.pas</Transaction>
+    <Transaction>2023/01/27 19:47:49.000.110,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Decorator.dproj</Transaction>
+    <Transaction>2023/01/27 19:47:56.000.833,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/27 19:48:23.000.583,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Patterns\Decorator\UInterfaceComponent.pas</Transaction>
+    <Transaction>2023/01/27 19:52:48.000.906,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/27 19:52:58.000.418,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Patterns\Decorator\UConcreteComponent.pas</Transaction>
+    <Transaction>2023/01/27 20:00:11.000.698,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/27 20:00:21.000.534,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Patterns\Decorator\UDecorator.pas</Transaction>
+    <Transaction>2023/01/27 20:06:42.000.515,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/27 20:07:19.000.916,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Patterns\Decorator\UConcreteDecorator_DataHora.pas</Transaction>
+    <Transaction>2023/01/27 20:17:03.000.310,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/27 20:17:23.000.251,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Patterns\Decorator\UConcreteDecorator_Usuario.pas</Transaction>
+    <Transaction>2023/01/27 20:22:09.000.869,=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/27 20:26:05.000.916,C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\09 - Padrões de Projetos\04 - Padrões Estruturais - Decorator\Patterns\Decorator\UConcreteDecorator_WindoWS.pas</Transaction>
+  </Transactions>
+</BorlandProject>

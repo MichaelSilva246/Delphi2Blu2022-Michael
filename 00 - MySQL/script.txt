@@ -1,0 +1,52 @@
+CREATE TABLE `funcionario` (
+  `codigo` int NOT NULL AUTO_INCREMENT,
+  `nome_completo` varchar(100) NOT NULL,
+  `idade` tinyint unsigned NOT NULL,
+  `data_nascimento` date NOT NULL,
+  `cpf` char(11) NOT NULL,
+  `cnpj` char(14) NOT NULL,
+  `rua` char(150) NOT NULL,
+  `numero_rua` int unsigned NOT NULL,
+  `complemento` char(100) DEFAULT NULL,
+  `cidade` char(100) NOT NULL,
+  `estado` char(100) NOT NULL,
+  `codigo_cadastro` date DEFAULT NULL,
+  `data_cadastro` date DEFAULT NULL,
+  `ultima_atualizacao` datetime DEFAULT NULL,
+  `sexo` char(20) NOT NULL,
+  `religiao` char(20) DEFAULT NULL,
+  `cor` char(45) DEFAULT NULL,
+  `qi` smallint unsigned DEFAULT NULL,
+  `tipo_sanguineo` char(3) NOT NULL,
+  `doador_orgaos` tinyint NOT NULL,
+  `passagem_policia` tinyint NOT NULL,
+  `grau_ensino` char(45) NOT NULL,
+  `usuario_ativo` tinyint DEFAULT NULL,
+  PRIMARY KEY (`codigo`),
+  UNIQUE KEY `cpf_UNIQUE` (`cpf`),
+  UNIQUE KEY `cnpj_UNIQUE` (`cnpj`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+
+---
+
+CREATE TABLE `devs2blu`.`dependentes` (
+  `codigo_dependente` INT UNSIGNED NOT NULL,
+  `codigo_funcionario` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  `grau_parentesco` CHAR(20) NOT NULL,
+  `data_nascimento` DATE NOT NULL,
+  `endereco` CHAR(100) NOT NULL,
+  `complemento` CHAR(45) NULL,
+  `bairro` CHAR(100) NOT NULL,
+  `cidade` CHAR(100) NOT NULL,
+  `cep` INT UNSIGNED NOT NULL,
+  `estado` CHAR(100) NOT NULL,
+  `tipo_sanguineo` CHAR(3) NOT NULL,
+  PRIMARY KEY (`codigo_dependente`),
+  UNIQUE INDEX `codigo_dependente_UNIQUE` (`codigo_dependente` ASC) VISIBLE,
+  UNIQUE INDEX `codigo_funcionario_UNIQUE` (`codigo_funcionario` ASC) VISIBLE);
+
+---
+
+INSERT INTO `devs2blu`.`funcionario` (`codigo`, `nome_completo`, `idade`, `data_nascimento`, `cpf`, `cnpj`, `rua`, `numero_rua`, `complemento`, `cidade`, `estado`, `codigo_cadastro`, `data_cadastro`, `ultima_atualizacao`, `sexo`, `religiao`, `cor`, `qi`, `tipo_sanguineo`, `doador_orgaos`, `passagem_policia`, `grau_ensino`, `usuario_ativo`) VALUES ('1', 'Nathan de Andrade Gonçalves', '20', '2002/04/15', '11091412979', '1234567891011', 'Rua São Gabriel', '125', 'Casa', 'Blumenau', 'SC', '2022/10/26', '2022/10/26', '2022/10/26', 'Masculino', 'Catolico', 'Branco', '500', 'A+', '2', '2', 'Ensino médio', '1');
+INSERT INTO `devs2blu`.`funcionario` (`codigo`, `nome_completo`, `idade`, `data_nascimento`, `cpf`, `cnpj`, `rua`, `numero_rua`, `complemento`, `cidade`, `estado`, `codigo_cadastro`, `data_cadastro`, `ultima_atualizacao`, `sexo`, `religiao`, `cor`, `qi`, `tipo_sanguineo`, `doador_orgaos`, `passagem_policia`, `grau_ensino`, `usuario_ativo`) VALUES ('2', 'Amábile Moreira', '19', '2003/04/14', '11091412977', '123456789', 'Predinho', '4', 'Apartamento', 'Blumenau', 'SC', '2022/10/26', '2022/10/26', '2022/10/26', 'Feminino', 'Catolico', 'Branco', '500', 'A+', '2', '2', 'Graduada', '2');
+

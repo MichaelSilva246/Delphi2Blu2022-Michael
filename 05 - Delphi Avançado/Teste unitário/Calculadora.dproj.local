@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/16 18:40:47.000.837,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/16 18:29:36.000.050,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/16 18:30:38.000.266,C:\Users\mysql\Documents\Delphi2Blu2022\05 - Delphi Avançado\Teste unitário\ufrmPrincipal.dfm=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/01/16 18:30:38.000.266,C:\Users\mysql\Documents\Delphi2Blu2022\05 - Delphi Avançado\Teste unitário\ufrmPrincipal.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/16 18:31:52.000.430,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/16 18:32:02.000.143,C:\Users\mysql\Documents\Delphi2Blu2022\05 - Delphi Avançado\Teste unitário\uCalculadora.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/16 18:58:12.000.374,C:\Users\mysql\Documents\Delphi2Blu2022\05 - Delphi Avançado\Teste unitário\Calculadora.dproj=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

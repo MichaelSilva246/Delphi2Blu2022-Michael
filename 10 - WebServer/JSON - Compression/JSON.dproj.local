@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/16 18:40:47.000.837,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 20:52:00.000.294,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/06 18:39:37.000.009,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\JSON\UfrmPrincipal.dproj=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/02/06 18:39:56.000.758,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\JSON\JSON.dproj=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\JSON\UfrmPrincipal.dproj</Transaction>
+    <Transaction>2023/02/06 18:40:52.000.059,=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\JSON\Unit1.pas</Transaction>
+    <Transaction>2023/02/06 18:41:22.000.151,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\JSON\Nova pasta\UDadosGerais.pas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\JSON\Unit1.pas</Transaction>
+    <Transaction>2023/02/06 18:42:46.000.042,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\JSON\Nova pasta\UDadosGerais.pas=</Transaction>
+    <Transaction>2023/02/06 18:42:51.000.049,=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\JSON\Unit1.pas</Transaction>
+    <Transaction>2023/02/06 18:43:15.000.800,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\JSON\model\service\UDadosGerais.pas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\JSON\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

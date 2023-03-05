@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/17 15:52:40.000.087,=C:\Users\natha\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/17 15:54:26.000.070,=C:\Users\natha\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/17 15:55:28.000.698,C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\Atividades POO\Atividade Bomba Combustivel\uFrmPrincipal.pas=C:\Users\natha\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/17 15:55:28.000.698,C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\Atividades POO\Atividade Bomba Combustivel\uFrmPrincipal.dfm=C:\Users\natha\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/17 15:55:43.000.828,C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\Atividades POO\Atividade Bomba Combustivel\uBombaCombustivel.pas=C:\Users\natha\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/17 15:55:51.000.208,C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\Atividades POO\Atividade Bomba Combustivel\BombaCombustivel.dproj=C:\Users\natha\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/10/18 21:24:12.708,=C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade Bomba Combustivel\ModelSupport_BombaCombustivel\default.txaPackage</Transaction>
+    <Transaction>2022/10/18 21:27:09.885,=C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade Bomba Combustivel\ModelSupport_BombaCombustivel\default.txvpck</Transaction>
+    <Transaction>2022/10/18 21:27:25.912,=C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade Bomba Combustivel\ModelSupport_BombaCombustivel\uFrmPrincipal\default.txvpck</Transaction>
+    <Transaction>2022/10/18 21:27:25.962,=C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade Bomba Combustivel\ModelSupport_BombaCombustivel\uBombaCombustivel\default.txvpck</Transaction>
+    <Transaction>2022/10/18 21:27:26.011,=C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade Bomba Combustivel\ModelSupport_BombaCombustivel\BombaCombustivel\default.txvpck</Transaction>
+    <Transaction>2022/10/18 21:27:40.011,=C:\Users\nagoncalves\Documents\Delphi2Blu2022\Atividades POO\Atividade Bomba Combustivel\ModelSupport_BombaCombustivel\BombaCombustivel\default.txaPackage</Transaction>
+  </Transactions>
+</BorlandProject>

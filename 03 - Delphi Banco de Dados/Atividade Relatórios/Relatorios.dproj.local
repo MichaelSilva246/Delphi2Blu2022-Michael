@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/19 10:00:47.000.035,=C:\Users\natha\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/13 13:25:54.000.466,=C:\Users\natha\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/13 13:26:43.000.530,C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\src\view\ufrmPrincipal.pas=C:\Users\natha\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/13 13:26:43.000.530,C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\src\view\ufrmPrincipal.dfm=C:\Users\natha\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/01/13 13:28:03.000.217,C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\Relatorios.dproj=C:\Users\natha\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/01/13 13:28:59.000.203,=C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\Unit2.pas</Transaction>
+    <Transaction>2023/01/13 13:51:47.000.410,C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\Unit2.dfm=C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\src\view\ufrmExercicio1.dfm</Transaction>
+    <Transaction>2023/01/13 13:51:47.000.410,C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\Unit2.pas=C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\src\view\ufrmExercicio1.pas</Transaction>
+    <Transaction>2023/01/13 14:02:08.000.294,=C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\Unit1.pas</Transaction>
+    <Transaction>2023/01/13 14:02:33.000.772,C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\src\model\udmConexao.pas=C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\Unit1.pas</Transaction>
+    <Transaction>2023/01/13 14:02:33.000.772,C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\src\model\udmConexao.dfm=C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\Unit1.dfm</Transaction>
+    <Transaction>2023/01/13 14:22:58.000.307,=C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\Unit1.pas</Transaction>
+    <Transaction>2023/01/13 14:23:44.000.986,C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\src\view\ufrmExercicio2.pas=C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\Unit1.pas</Transaction>
+    <Transaction>2023/01/13 14:23:44.000.986,C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\src\view\ufrmExercicio2.dfm=C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\Unit1.dfm</Transaction>
+    <Transaction>2023/01/13 14:33:32.000.108,=C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\Unit1.pas</Transaction>
+    <Transaction>2023/01/13 14:34:06.000.054,C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\Unit1.dfm=C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\src\view\ufrmExercicio3.dfm</Transaction>
+    <Transaction>2023/01/13 14:34:06.000.054,C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\Unit1.pas=C:\Users\natha\OneDrive\Documentos\Delphi2Blu2022\03 - Delphi Banco de Dados\Atividade Relatórios\src\view\ufrmExercicio3.pas</Transaction>
+  </Transactions>
+</BorlandProject>

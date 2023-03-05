@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/26 19:24:20.000.960,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 18:21:56.000.525,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 19:31:28.000.898,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 19:32:04.000.247,C:\Users\nagoncalves\Documents\Delphi2Blu2022\Manipulação de Arquivo Texto\Nova pasta\uFrmPrincipal.pas=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 19:32:04.000.247,C:\Users\nagoncalves\Documents\Delphi2Blu2022\Manipulação de Arquivo Texto\Nova pasta\uFrmPrincipal.dfm=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/12/06 19:32:08.000.318,C:\Users\nagoncalves\Documents\Delphi2Blu2022\Manipulação de Arquivo Texto\Nova pasta\Principal.dproj=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

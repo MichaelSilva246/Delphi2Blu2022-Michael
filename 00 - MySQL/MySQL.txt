@@ -1,0 +1,98 @@
+Código de cadastro
+codigo int(255) PRIMARY KEY AUTOINCREMENT
+
+Nome completo
+nome_completo varchar(255) NOT NULL
+
+Idade
+idade tinyint Unsigded NOT NULL
+
+Data de nascimento 
+data_nascimento Date NOT NULL
+ 
+CPF
+cpf char(11) NOT NULL UNIQUE
+
+CNPJ
+cnpj char(14) NOT NULL UNIQUE
+
+-
+
+Rua
+rua char(255) NOT NULL
+
+Numero
+numero mediumint NOT NULL
+
+Complemento
+complemento char(100) NULL
+
+Cidade
+cidade char(100) NOT NULL
+
+Estado
+estado char(100) NOT NULL
+
+Código de Cadastro
+codigo_cadastro int  NULL
+
+Data de cadastro
+data_cadastro date NULL
+
+Ultima atualização do cadastro
+ultima_atualizacao datetime NULL
+
+Sexo
+sexo char(20); NOT NULL
+
+Religião
+religiao char(20) NULL
+
+Cor
+cor char(20) NULL
+
+QI
+qi tinyint Unsigded NULL
+
+Tipo Sanguíneo
+tipo_sanguineo char(3) NOT NULL
+
+Se é doador de orgão
+doardor_orgaos bool NOT NULL
+
+se tem passagem pela policial
+passagem_policia bool NOT NULL
+
+Qual seu grau de ensino
+grau_ensino char(50) NOT NULL
+
+Se o usuario esta ou nao ativo
+usuario_ativo bool NULL
+
+-
+
+codigo do dependente
+codigo_dependente int primary key AUTOINCREMENT
+
+codigo do funcionario
+codigo_funcionario int not null AUTOINCREMENT
+
+grau de parentesco
+grau_parentecos char(25) not null
+
+data de nascimento
+data_nascimento date not null
+
+endereco char(100) not null
+
+complemento char(100) 
+
+bairro char(100) not null
+
+cidade char(100) not null
+
+cep int unsiged not null
+
+estado char(100) not null
+
+tipo_sanguineo char(3) not null

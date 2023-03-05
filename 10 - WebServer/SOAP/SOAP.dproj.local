@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/16 18:40:47.000.837,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 20:52:00.000.294,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/01 19:36:35.115,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2023/02/01 19:36:35.406,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2023/02/01 19:36:59.015,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Hello_WorldImpl.pas</Transaction>
+    <Transaction>2023/02/01 19:36:59.095,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Hello_WorldIntf.pas</Transaction>
+    <Transaction>2023/02/01 19:37:18.123,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\SOAP\Hello_WorldIntf.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Hello_WorldIntf.pas</Transaction>
+    <Transaction>2023/02/01 19:37:19.290,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\SOAP\Hello_WorldImpl.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Hello_WorldImpl.pas</Transaction>
+    <Transaction>2023/02/01 19:37:20.844,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\SOAP\FormUnit1.dfm=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\FormUnit1.dfm</Transaction>
+    <Transaction>2023/02/01 19:37:20.844,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\SOAP\FormUnit1.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2023/02/01 19:37:22.223,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\SOAP\WebModuleUnit1.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2023/02/01 19:37:22.223,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\SOAP\WebModuleUnit1.dfm=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2023/02/01 19:37:24.728,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\SOAP\SOAP.dproj=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

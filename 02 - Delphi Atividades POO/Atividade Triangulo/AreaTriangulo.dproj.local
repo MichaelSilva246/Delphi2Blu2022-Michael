@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/26 19:24:20.000.960,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 18:21:56.000.525,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/05 19:45:30.000.030,=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/05 19:46:15.000.552,C:\Users\nagoncalves\Documents\Devs2Blu-Alunos-2\Exercicio POO\uFrmPrimeiraClasse.dfm=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/05 19:46:15.000.552,C:\Users\nagoncalves\Documents\Devs2Blu-Alunos-2\Exercicio POO\uFrmPrimeiraClasse.pas=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/05 19:46:39.000.527,C:\Users\nagoncalves\Documents\Devs2Blu-Alunos-2\Exercicio POO\AreaTriangulo.dproj=C:\Users\nagoncalves\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/10/05 21:21:55.000.939,=C:\Users\nagoncalves\Documents\Delphi2Blu2022\Exercicio POO\Unit1.pas</Transaction>
+    <Transaction>2022/10/05 21:22:00.000.921,C:\Users\nagoncalves\Documents\Delphi2Blu2022\Exercicio POO\Unit1.pas=C:\Users\nagoncalves\Documents\Delphi2Blu2022\Exercicio POO\uTriangulo.pas</Transaction>
+  </Transactions>
+</BorlandProject>

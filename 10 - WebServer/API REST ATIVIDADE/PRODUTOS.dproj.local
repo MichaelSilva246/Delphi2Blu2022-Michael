@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/16 18:40:47.000.837,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 20:52:00.000.294,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/07 18:32:01.000.767,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/08 19:27:36.000.023,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\API REST ATIVIDADE\PRODUTOS.dproj=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/02/08 19:27:46.000.180,=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\API REST ATIVIDADE\Unit1.pas</Transaction>
+    <Transaction>2023/02/08 19:27:56.000.677,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\API REST ATIVIDADE\model\entities\UProduto.pas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\API REST ATIVIDADE\Unit1.pas</Transaction>
+    <Transaction>2023/02/08 19:33:40.000.443,=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\API REST ATIVIDADE\Unit1.pas</Transaction>
+    <Transaction>2023/02/08 19:34:12.000.234,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\API REST ATIVIDADE\model\controller\UController.Produto.pas=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\API REST ATIVIDADE\Unit1.pas</Transaction>
+    <Transaction>2023/02/08 19:57:21.000.083,=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\JSON - Compression\model\service\UDadosGerais.pas</Transaction>
+    <Transaction>2023/02/08 19:58:28.000.622,C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\JSON - Compression\model\service\UDadosGerais.pas=</Transaction>
+    <Transaction>2023/02/08 19:58:35.000.900,=C:\Users\mysql\Documents\Delphi2Blu2022\10 - WebServer\API REST ATIVIDADE\model\service\UDadosGerais.pas</Transaction>
+  </Transactions>
+</BorlandProject>

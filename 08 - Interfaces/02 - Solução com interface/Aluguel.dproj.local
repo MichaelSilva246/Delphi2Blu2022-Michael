@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/16 18:40:47.000.837,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 20:52:00.000.294,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 20:53:05.000.656,C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\Aluguel.dproj=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/01/20 20:55:33.000.463,=C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 20:55:46.000.354,C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\model\entities\UVehicle.pas=C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 21:00:41.000.527,=C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 21:00:59.000.486,C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\model\entities\UCarRental.pas=C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 21:01:05.000.692,=C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 21:01:37.000.238,C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\model\entities\UInvoice.pas=C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 21:24:30.000.840,=C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 21:25:36.000.283,C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\model\services\UBrazilTaxService.pas</Transaction>
+    <Transaction>2023/01/20 21:30:02.000.847,=C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\Unit1.pas</Transaction>
+    <Transaction>2023/01/20 21:30:14.000.241,C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\Unit1.pas=C:\Users\mysql\Documents\Delphi2Blu2022\08 - Interfaces\01 - Solução sem interface\model\services\URentalService.pas</Transaction>
+  </Transactions>
+</BorlandProject>
